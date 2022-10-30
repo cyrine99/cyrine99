@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4b8c8795701017.5e9dc4f86f6eb.gif" width="100"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4b8c8795701017.5e9dc4f86f6eb.gif" width="500" height="500"/>
 </div>
 <h1> Hi 👋 My name is  Cyrine Ghwela </h1>
 
