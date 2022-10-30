@@ -22,8 +22,7 @@
 <li>🌍 I'm based in Tripoli</li>
 <li>✉️ You can contact me at cyrineghwela1@gmail.com</li>
 <li>🎓 I studied computer science at the College of Computer Technology Tripoli.</li>
-<li></li>
-<li></li>
+<li>🤝 I'm open to collaborating on mobile application devolper , a full stack web devolper, a graphic designer</li>
 </ul>
 
 <hr>
