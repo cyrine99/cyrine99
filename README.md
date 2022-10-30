@@ -16,7 +16,7 @@
 
 <h1 align="center" > Hi 👋 My name is  Cyrine Ghwela </h1>
 
-<h3>Software Engineering , Web Developer<h/3>
+<h3 align="center">Software Engineering , Web Developer<h/3>
 <hr>
 <ul>
 <li>🌍 I'm based in Tripoli</li>
